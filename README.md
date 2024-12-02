@@ -1,0 +1,1 @@
+Repositorio que contiene la codificación de un Microcontrolador para la configuración de 3 circuitos diferentes, este proyecto fue elaborado por Pablo Alberto Martin del Campo Gil y Kevin Emmanuel Ruvalcaba Ruvalcaba
